@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=dzakir+tsabit;software+developer;ai+%2F+automation+builder;terminal+online..." />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&lines=dzhax499;software+developer;ai+%2F+automation+builder;welcome+to+my+terminal" />
+</h1>
 
 ```bash id="h0z8fe"
 ┌──(root㉿dzakir)-[~]
