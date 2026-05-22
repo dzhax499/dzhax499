@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&lines=dzhax499;software+developer;ai+%2F+automation+builder;welcome+to+my+terminal" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=35&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=DZHAX499)](https://git.io/typing-svg)
 
 ```bash id="h0z8fe"
 ┌──(root㉿dzakir)-[~]
