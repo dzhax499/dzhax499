@@ -1,81 +1,97 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z0d3c2bjR4N2N4b3MxMTRkYm4wdnM0bDg2d2I0ZXN4M2k4bTRxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=initializing+system...;accessing+neural+network...;loading+developer+profile...;welcome+to+dzakir+terminal" />
 </p>
 
-<h1 align="center">dzakir tsabit</h1>
+```bash id="g43v1k"
+┌──(root㉿dzakir)-[~/system/profile]
+└─$ whoami
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=software+developer;ai+tools+builder;game+programmer;flutter+%7C+vue+%7C+c%2Fc%2B%2B;open+source+enthusiast" />
-</p>
+dzakir tsabit
 
----
+┌──(root㉿dzakir)-[~/system/profile]
+└─$ cat info.txt
 
-```bash
-> whoami
+> software developer
+> ai tools builder
+> game programmer
+> automation enthusiast
 
-name     : dzakir tsabit
-location : indonesia
-focus    : ai tools, automation, mobile apps, game dev
-learning : vue.js, flutter, system programming
-status   : building cool stuff
+┌──(root㉿dzakir)-[~/system/profile]
+└─$ current_focus
+
+[+] flutter development
+[+] vue.js ecosystem
+[+] cyber security
+[+] open source ai chatbot
+[+] ocr automation systems
+[+] raylib tetris engine
 ```
 
 ---
 
-## tech stack
+<h2 align="center">system status</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,flutter,vue,js,ts,linux,git,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
 
-## featured projects
+```bash id="9k7l0d"
+┌──(root㉿dzakir)-[~/skills]
+└─$ ls
 
-```txt
-[+] OCR Detection System
-[+] Open Source AI Chatbot
-[+] Tetris Engine using Raylib
-[+] Mobile Apps with Flutter
-[+] Automation & Productivity Tools
+c
+cpp
+python
+flutter
+vue
+linux
+git
+github
+raylib
+automation
 ```
 
 ---
 
-## github stats
+<h2 align="center">tech arsenal</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,flutter,vue,js,linux,bash,git,github,vscode" />
 </p>
 
 ---
 
-## currently working on
+```bash id="y7t0ka"
+┌──(root㉿dzakir)-[~/projects]
+└─$ tree
 
-```txt
-> building ai chatbot systems
-> exploring cyber security
-> creating automation software
-> improving mobile development skills
+projects
+├── OCR-Detection-System
+├── OpenSource-AI-Chatbot
+├── Raylib-Tetris
+├── Flutter-Mobile-Apps
+└── Automation-Tools
 ```
 
 ---
 
-## connect
+<h2 align="center">network access</h2>
 
 <p align="center">
   <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
   </a>
 
   <a href="https://instagram.com/USERNAME">
-    <img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
   </a>
 
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
   </a>
 </p>
 
@@ -85,6 +101,12 @@ status   : building cool stuff
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=visitors&color=0f0f0f&style=flat" />
-</p>
+---
+
+```bash id="r2l0fu"
+┌──(root㉿dzakir)-[~/terminal]
+└─$ sudo shutdown -h now
+
+disconnecting...
+session terminated.
+```
