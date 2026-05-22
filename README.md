@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&background=000000&center=true&random=true&width=439&height=40&lines=dzhax)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=dzakir+tsabit;software+developer;ai+%2F+automation+builder;terminal+online..." />
 </p>
